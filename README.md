@@ -23,12 +23,12 @@ in vitro activity against SARS-CoV-2.
 
 The key modules that were used with CRT are:
 
-Python 3.7
-Pytorch 1.9.0
-Rdkit 2020.09.10
-Tqdm 4.62.0
-pandas 1.2.5
-numpy 1.20.3
+- Python 3.7
+- Pytorch 1.9.0
+- Rdkit 2020.09.10
+- Tqdm 4.62.0
+- pandas 1.2.5
+- numpy 1.20.3
 
 ## Code description:
 The code was largely developed and run on a single GeForce Nvidia RTX 3050 GPU with cuda toolkit version 11.1.1.
