@@ -41,7 +41,7 @@ The code consists of three main files for model training, fine-tuning and molecu
 
 Generating molecules consists of three steps: 
 1.	Training a model to learn the rules of chemical grammar by running train_main.py.  A pre-trained model is provided.  Training a model from scratch takes approximately 10-12 hours on a single GPU. 
-2.	Fine tuning a model on a specific dataset of interest by running fine_tune.py.  A pre-trained model is provided.  The data must be downloaded, unzipped, placed in the appropriate folder and file addresses changed to run fine_tune.py.
+2.	Fine tuning a model on a specific dataset of interest by running fine_tune.py.  A pre-trained model is provided.  
 3.	Generating molecules with generation.py.  
 
 To run train_main.py, fine_tune.py, and generation.py, the data must be downloaded, unzipped, placed in the appropriate folders and folder addresses updated in the respective code files.
