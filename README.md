@@ -58,9 +58,9 @@ The pre-trained models should be downloaded, unzipped and placed in the …/mode
 
 The baseline models can be found at the following links:
 
-CRM: https://github.com/ETHmodlab/virtual_libraries
-LigGPT:  https://github.com/devalab/molgpt
-VAE, AAE, CRNN: https://github.com/molecularsets/moses
+- *CRM*: https://github.com/ETHmodlab/virtual_libraries
+- *LigGPT*:  https://github.com/devalab/molgpt
+- *VAE, AAE, CRNN*: https://github.com/molecularsets/moses
 
 ## Cite:
 
