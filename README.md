@@ -35,9 +35,9 @@ The code was largely developed and run on a single GeForce Nvidia RTX 3050 GPU w
 
 The code consists of three main files for model training, fine-tuning and molecule generation:
 
-Training.py
-Fine_tuning.py
-Generation.py
+- Training.py
+- Fine_tuning.py
+- Generation.py
 
 Generating molecules consists of three steps: 
 1.	Training a model to learn the rules of chemical grammar by running train_main.py.  A pre-trained model is provided.  Training a model from scratch takes approximately 10-12 hours on a single GPU. 
@@ -48,7 +48,7 @@ To run train_main.py, fine_tune.py, and generation.py, the data must be download
 
 ## Data and Pre-trained models:
 
-The link to the data and pre-trained models is: https://drive.google.com/drive/folders/11nWxBo8n29Jz9aHyOD1otHuC87M8iDQj?usp=sharing
+The link to the data and pre-trained models is: (https://drive.google.com/drive/folders/11nWxBo8n29Jz9aHyOD1otHuC87M8iDQj?usp=sharing)
 
 The data should be downloaded, unzipped and placed in the …/data folder.  The underlying training and validation SMILES data was taken from:  https://github.com/ETHmodlab/virtual_libraries.  The training and validation Morgan fingerprint property data was developed using Rdkit.
 
