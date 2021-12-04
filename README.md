@@ -48,7 +48,7 @@ To run train_main.py, fine_tune.py, and generation.py, the data must be download
 
 ## Data and Pre-trained models:
 
-The links to the data and pre-trained models is: https://drive.google.com/file/d/15DtJP4WFBpeYDuGV6SzE2yuJpGv-oH_E/view?usp=sharing and https://drive.google.com/file/d/16zbDPK2Wg1Pol4S6iKNYoOYX7Z_Do6FV/view?usp=sharing
+The links to the data and pre-trained models: https://drive.google.com/file/d/15DtJP4WFBpeYDuGV6SzE2yuJpGv-oH_E/view?usp=sharing and https://drive.google.com/file/d/16zbDPK2Wg1Pol4S6iKNYoOYX7Z_Do6FV/view?usp=sharing
 
 The data should be downloaded, unzipped and placed in the …/data folder.  The underlying training and validation SMILES data was taken from:  https://github.com/ETHmodlab/virtual_libraries.  The training and validation Morgan fingerprint property data was developed using Rdkit.
 
